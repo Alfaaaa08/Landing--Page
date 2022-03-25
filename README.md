@@ -1,2 +1,3 @@
 # Landing--Page
-Minha Landing Page para demonstrar alguns conhecimentos. Feita com HTML e CSS.
+
+Para abrir e visualizar a landing page basta apenas baixar o arquivo e importar para VSCode. De lá, você deve apertar Ctrl + Shift + P, e escolher a opção "Open with Live Server".
